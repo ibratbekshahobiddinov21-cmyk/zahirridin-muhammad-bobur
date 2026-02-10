@@ -1,0 +1,7 @@
+{
+  "name": "zahirridin muhammad bobur",
+  "description": "An interactive experience exploring the life, poetry, and military legacy of Zahiriddin Muhammad Bobur, featuring a real-time voice AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
